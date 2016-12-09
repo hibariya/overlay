@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repositories version="1.0">
+<repo priority="50" quality="experimental" status="unofficial">
+  <name>hibariya</name>
+  <description>Packages for Hibariya.</description>
+  <homepage>https://github.com/hibariya/overlay</homepage>
+  <owner>
+    <email>hibariya@gmail.com</email>
+    <name>Hibariya</name>
+  </owner>
+  <source type="git">https://github.com/hibariya/overlay.git</source>
+  <feed>https://github.com/hibariya/overlay/commits/master.atom</feed>
+</repo>
+</repositories>
